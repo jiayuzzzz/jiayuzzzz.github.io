@@ -15,7 +15,7 @@ I am bored but a good person. A party is not as good as my switch 🎮 but a tri
 - [Simple data cleaning by Python](/simple_data_processing.html)
 - [Simple regression model by Python](/simple_linear_regression.html)
 - [Simple map visualization by Python](/Map_Visualization.html)
-- Cluster analysis by Python
+- [Cluster analysis by Python](/cluster_analysis.html)
 - Panel VAR by Stata
 - Principal component analysis by Stata
 - ...
