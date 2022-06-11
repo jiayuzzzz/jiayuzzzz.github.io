@@ -1,6 +1,6 @@
 ## Welcome to Jiayu's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jiayuzzzz/jiayuzzzz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am now a graduate student at KTH, major of Real Estate Economics. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
