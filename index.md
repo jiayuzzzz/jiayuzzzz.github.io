@@ -30,7 +30,7 @@ I am bored but a good person. A party is not as good as my switch 🎮 but a tri
 ## Contact me
 _E-mail:_ jiayuz@kth.se
 
-_Phone:_ 0728766930
+_Phone:_ (+46)0728766930
 
 ### Header 3
 
