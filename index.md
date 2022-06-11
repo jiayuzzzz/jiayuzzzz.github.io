@@ -11,10 +11,10 @@ I am boring but a good person. A party is not as good as my switch 🎮 but a tr
 ### Here we go 💻
 
 - Fixed effects model by R
-- Simple regression model by Python
-- Panel VAR by Stata
-- Cluster analysis by Python
 - Data normalization by R
+- Simple regression model by Python
+- Cluster analysis by Python
+- Panel VAR by Stata
 - Principal component analysis by Stata
 - ...
 
