@@ -27,13 +27,10 @@ I am bored but a good person. A party is not as good as my switch 🎮 but a tri
 
 
 
+## Contact me
+_E-mail_ jiayuz@kth.se
+_Phone_ 0728766930
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted
