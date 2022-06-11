@@ -13,7 +13,7 @@ I am boring but a good person. A party is not as good as my switch 🎮 but a tr
 - Fixed effects model by R
 - Data normalization by R
 - Simple regression model by Python
-- [Cluster analysis by Python](../GitHub/jiayuzzzz.github.io/image/_Final_Project_Group_35.pdf)
+- [Cluster analysis by Python](/_Final_Project_Group_35.pdf)
 - Panel VAR by Stata
 - Principal component analysis by Stata
 - ...
