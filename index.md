@@ -29,7 +29,6 @@ I am bored but a good person. A party is not as good as my switch 🎮 but a tri
 
 
 
-
 ```markdown
 Syntax highlighted code block
 
