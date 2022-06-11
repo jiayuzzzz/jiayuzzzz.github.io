@@ -5,10 +5,10 @@ I am now a graduate student at KTH, major of Real Estate Economics. Here I share
 Hope u guys have fun!
 
 
-### If I introduce myself 
+### If I introduce myself... 
 I am bored but a good person. A party is not as good as my switch 🎮 but a travel is better than the Animal Crossing!!!
 
-### Here we go 💻
+### Ok now here we go 💻
 
 - Fixed effects model by R
 - Data normalization by R
