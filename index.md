@@ -8,6 +8,19 @@ Hope u guys have fun!
 ### If I introduce myself 
 I am boring but a good person. A party is not as good as my switch 🎮 but a travel is better than the Animal Crossing!!!
 
+### Here we go 💻
+
+- Fixed effects model by R
+- Simple regression model by Python
+- Panel VAR by Stata
+- Cluster analysis by Python
+- Data normalization by R
+- Principal component analysis by Stata
+- ...
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
