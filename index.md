@@ -1,12 +1,12 @@
-## Welcome to Jiayu's GitHub Pages
+## Hi welcome to Jiayu's GitHub Pages 🥳
 
-I am now a graduate student at KTH, major of Real Estate Economics. 
+I am now a graduate student at KTH, major of Real Estate Economics. Here I shared some basic codes and interpretations about quantitative economics models.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hope u guys have fun!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### If I introduce myself 
+I am boring but a good person. A party is not as good as my switch 🎮 but a travel is better than the Animal Crossing!!!
 
 ```markdown
 Syntax highlighted code block
