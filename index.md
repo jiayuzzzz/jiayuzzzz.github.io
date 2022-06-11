@@ -14,7 +14,7 @@ I am bored but a good person. A party is not as good as my switch 🎮 but a tra
 - Data normalization by R
 - [Simple regression model by Python](/simple_linear_regression.html)
 - [Simple map visualization by Python](/Map_Visualization.html)
-- [Cluster analysis by Python](/_Final_Project_Group_35.pdf)
+- [Cluster analysis by Python]()
 - Panel VAR by Stata
 - Principal component analysis by Stata
 - ...
