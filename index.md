@@ -6,7 +6,7 @@ Hope u guys have fun!
 
 
 ### If I introduce myself 
-I am boring but a good person. A party is not as good as my switch 🎮 but a travel is better than the Animal Crossing!!!
+I am bored but a good person. A party is not as good as my switch 🎮 but a travel is better than the Animal Crossing!!!
 
 ### Here we go 💻
 
