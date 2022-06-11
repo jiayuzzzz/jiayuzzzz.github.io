@@ -18,7 +18,7 @@ I am boring but a good person. A party is not as good as my switch 🎮 but a tr
 - Principal component analysis by Stata
 - ...
 
-![Image](“../image/flower.JPG”)
+<img src="../../flower.jpg"/>
 
 
 
