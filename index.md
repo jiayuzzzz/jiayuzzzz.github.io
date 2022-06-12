@@ -11,7 +11,7 @@ I am bored but a good person. A party is not as good as my switch 🎮 but a tri
 ### Ok now here we go 💻
 
 - Fixed effects model by R
-- Data normalization by R
+- [Data normalization by R](/min-max_scaler.html)
 - [Simple data cleaning by Python](/simple_data_processing.html)
 - [Simple regression model by Python](/simple_linear_regression.html)
 - [Simple map visualization by Python](/Map_Visualization.html)
