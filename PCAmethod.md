@@ -63,5 +63,7 @@ We perform the KMO and Bartlett's Test for PCA analysis here. If the score is la
 * estat kmo
 ```
 <img src="kmo.png" width="400">
+
+
 The result is 0.73, so PCA is appropriate here.
 
